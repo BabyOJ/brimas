@@ -1,0 +1,18 @@
+{
+            name:{
+                title:["ms"],
+                firstname:["Alicia"],
+                lastname:['michel'],
+                email:["alicia.michel@example.com"]
+
+            },
+            location:{
+                street:["wuse 2"],
+                Number:["278"],
+                city:["Rennes"],
+                state:["Calvados"],
+                country:["france"],
+                postcode:["92030"]
+            },
+        }
+         {"results":[{"gender":"female","name":{"title":"Ms","first":"Alicia","last":"Michel"},"location":{"street":{"number":278,"name":"Rue Abel-Ferry"},"city":"Rennes","state":"Calvados","country":"France","postcode":92030,"coordinates":{"latitude":"-15.6874","longitude":"40.0764"},"timezone":{"offset":"+10:00","description":"Eastern Australia, Guam, Vladivostok"}},"email":"alicia.michel@example.com","login":{"uuid":"0bef05c2-e617-4ea5-8be6-c71ae47960f5","username":"happysnake496","password":"trucker","salt":"xgC5OtqS","md5":"28d010d1dc0eb35cd22cfc04340a9592","sha1":"f7945ab589e46db984a61c51234bf4822a6efd57","sha256":"ee45d97d03854373b91401fa3892c508d0c8fe271375e50e02847cf7205bf9c7"},"dob":{"date":"1951-03-21T07:45:50.737Z","age":72},"registered":{"date":"2015-12-13T09:54:25.957Z","age":7},"phone":"02-46-40-93-13","cell":"06-85-84-87-12","id":{"name":"INSEE","value":"2510264478371 06"},"picture":{"large":"https://randomuser.me/api/portraits/women/89.jpg","medium":"https://randomuser.me/api/portraits/med/women/89.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/89.jpg"},"nat":"FR"}],"info":{"seed":"484ca20d56b6916b","results":1,"page":1,"version":"1.4"}}
